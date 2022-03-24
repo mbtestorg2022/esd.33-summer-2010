@@ -159,7 +159,7 @@ McManus, Hugh L., and Todd E. Schuman. "Understanding the Orbital Transfer Vehic
 
 Ross, Adam M., and Daniel E. Hastings. "The Tradespace Exploration Paradigm." INCOSE International Symposium, Rochester, NY, July 10-15, 2005.
 
-National Aeronautics and Space Administration. Chapter 6 in _Systems Engineering Handbook_. Washington, D.C.: NASA STI, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.5MB](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080008301_2008008500.pdf))
+National Aeronautics and Space Administration. Chapter 6 in _Systems Engineering Handbook_. Washington, D.C.: NASA STI, 2007. ([PDF - 8.5MB](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080008301_2008008500.pdf))
 
 
 {{< tdclose >}}

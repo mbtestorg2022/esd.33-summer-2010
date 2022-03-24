@@ -30,7 +30,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mitesd_33sum10_lec01))
+([PDF - 2.0MB]({{< baseurl >}}/resources/mitesd_33sum10_lec01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Introduction
 Systems engineering as a human activity
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mitesd_33sum10_lec02))
+([PDF - 2.1MB]({{< baseurl >}}/resources/mitesd_33sum10_lec02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,9 +68,9 @@ Stakeholders and requirements, requirements and management
 {{< tdopen >}}
 
 
-Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB]({{< baseurl >}}/resources/mitesd_33sum10_lec04a))
+Part 1 ([PDF - 1.6MB]({{< baseurl >}}/resources/mitesd_33sum10_lec04a))
 
-Part 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mitesd_33sum10_lec04b))
+Part 2 ([PDF - 2.1MB]({{< baseurl >}}/resources/mitesd_33sum10_lec04b))
 
 
 {{< tdclose >}}
@@ -84,7 +84,7 @@ Part 2 (![This resource may not render correctly in a screen reader.](/images/in
 Innovation in systems engineering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_33sum10_lec05))
+([PDF - 1.1MB]({{< baseurl >}}/resources/mitesd_33sum10_lec05))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ Innovation in systems engineering
 Requirements driven systems design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.2MB]({{< baseurl >}}/resources/mitesd_33sum10_lec06))
+([PDF - 3.2MB]({{< baseurl >}}/resources/mitesd_33sum10_lec06))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,11 +116,11 @@ Guest lecturer: Skip Creveling
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec07))
+([PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec07))
 
 ([PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec07b))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec07c))
+([PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec07c))
 
 (Courtesy of PDSS. Used with permission.)
 
@@ -172,7 +172,7 @@ Guest lecturer: Dan Frey
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec10)) (Courtesy of Daniel Frey. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec10)) (Courtesy of Daniel Frey. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +208,7 @@ Guest lecturer: Dan Frey
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec12)) (Courtesy of Daniel Frey. Used with permission.)
+([PDF]({{< baseurl >}}/resources/mitesd_33sum10_lec12)) (Courtesy of Daniel Frey. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
