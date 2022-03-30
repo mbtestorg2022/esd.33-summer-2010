@@ -38,7 +38,7 @@ A number of technical papers will also be assigned as pre-reading for the lectur
 Overall Semester Plan
 ---------------------
 
-![Sem_Plan.jpg](/courses/engineering-systems-division/esd-33-systems-engineering-summer-2010/syllabus/Sem_Plan.jpg)
+{{< resource "c6d6a6a2-6513-2aa4-3519-ceaf95481f2c" >}}
 
 Lec #1: Course introduction
 
